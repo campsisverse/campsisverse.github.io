@@ -31,7 +31,7 @@ Want to give it a try? Please follow the [Installation](./install.html) instruct
 #### [campsis](https://github.com/campsisverse/campsis)
 
 A generic PK/PD simulation platform based on rxode2 and mrgsolve engines.  
-Please check out our [documentation](https://calvagone.github.io/campsis.doc/).
+Please check out our [documentation](https://campsisverse.github.io/campsis.doc/).
 
 </div>
 </div>
@@ -48,7 +48,7 @@ Please check out our [documentation](https://calvagone.github.io/campsis.doc/).
 #### [campsismod](https://github.com/campsisverse/campsismod)
 
 Generic implementation of a drug model in pharmacometrics.  
-Please check out our [documentation](https://calvagone.github.io/campsismod.doc/).
+Please check out our [documentation](https://campsisverse.github.io/campsismod.doc/).
 
 </div>
 </div>
@@ -115,7 +115,7 @@ Please check out the [README](https://github.com/campsisverse/campsisqual) or co
 
 #### [e-Campsis](./ecampsis.html)
 
-e-Campsis is an application that provides an intuitive and user-friendly interface for setting up population PK/PD simulations. Discover [e-Campsis](./ecampsis.html) here or check out our [documentation](https://calvagone.github.io/ecampsis.doc/).
+e-Campsis is an application that provides an intuitive and user-friendly interface for setting up population PK/PD simulations. Discover [e-Campsis](./ecampsis.html) here or check out our [documentation](https://campsisverse.github.io/ecampsis.doc/).
 
 </div>
 </div>

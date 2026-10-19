@@ -81,8 +81,8 @@ If you haven't installed Campsis, please visit the [installation](./install.html
 
 If you are looking for some more examples, please check out our documentation websites or READMEs:
 
-- Package [`campsismod`](https://calvagone.github.io/campsismod.doc/)
-- Package [`campsis`](https://calvagone.github.io/campsis.doc/)
+- Package [`campsismod`](https://campsisverse.github.io/campsismod.doc/)
+- Package [`campsis`](https://campsisverse.github.io/campsis.doc/)
 - Package [`campsisnca`](https://github.com/campsisverse/campsisnca)
 - Package [`campsismisc`](https://github.com/campsisverse/campsismisc)
 
