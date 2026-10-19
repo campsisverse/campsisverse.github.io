@@ -1,0 +1,25 @@
+---
+title: 'News'
+---
+
+- **December 1st, 2024**: Release of [Campsisverse](https://github.com/Calvagone/campsisverse), the package manager of the Campsis suite that allows you to install and update all Campsis packages in one go.
+
+- **November 29th, 2024**: Package [campsisqual](https://github.com/Calvagone/campsisqual/) is now open-source on GitHub. Contact [Calvagone](mailto:campsis@calvagone.com) to receive the qualification suite of models and qualify your installation of the Campsis suite. Check out our section on [Quality](./quality.html).
+
+- **September 11th, 2024**: Release of an updated version of e-Campsis pro allowing the generation of forest plots to explore the impact of covariates. 
+
+- **February 2nd, 2024**: Release of an updated version of e-Campsis including a multitude of minor improvements that collectively improve the user-experience and functionality of e-Campsis. 
+
+-   **December 20th, 2023**: Release of e-Campsis pro! The professional version of e-Campsis is now available.
+
+-   **October 17th, 2023**: New release of e-Campsis free / free+ / interim pro! Model parameters can now be annotated (see columns label, unit and comment). The model library has been revised and fully annotated. Save and load functionalities, as well as the NONMEM import are now part of the pro version. Check out this [video](https://www.youtube.com/M_LLI_poS2E).
+
+-   **August 11th, 2023**: Second release of e-Campsis free! Motivated by your positive feedback after the first release, we focused our efforts and implemented some powerful new features. Check out this [video](https://youtu.be/uypETm6aoNc) for a brief introduction to e-Campsis.
+
+-   **June 29th, 2023**: Presentation of e-Campsis at the PAGE meeting in A Coruña. Click [here](https://www.page-meeting.org/default.asp?abstract=10493) to see the poster.
+
+-   **June 22nd, 2023**: Release of the first version of e-Campsis free. Try it out by clicking this [link](https://ecampsis.shinyapps.io/free/).
+
+-   **February 17th, 2022**: Packages [`campsis`](https://cran.r-project.org/web/packages/campsis/index.html) and [`campsismod`](https://cran.r-project.org/web/packages/campsismod/index.html) are now available on CRAN!
+
+-   **December 1st, 2021**: We are happy to announce that Campsis is now open-source on GitHub. Please check out the content of our latest releases: [`campsis`](https://github.com/Calvagone/campsis/releases) & [`campsismod`](https://github.com/Calvagone/campsismod/releases)
