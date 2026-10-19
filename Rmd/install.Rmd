@@ -12,7 +12,7 @@ title: 'Installation'
 Installing the Campsis suite is easy. First download our Campsis package manager using `remotes`:
 
 ```{r, eval=FALSE}
-remotes::install_github("Calvagone/campsisverse")
+remotes::install_github("campsisverse/campsisverse")
 ```
 
 Then, run the install method. This will install all the packages of the suite, including their dependencies and the simulation engines (`mrgsolve` and `rxode2`).
@@ -26,5 +26,5 @@ campsisverse::install()
 
 You want to qualify your suite? We have everything you need.  
 Please contact [Calvagone](mailto:campsis@calvagone.com) to get your certificate and qualification suite of models.  
-Thanks to our [`campsisqual`](https://github.com/Calvagone/campsisqual) package, an extensive IQ/OQ report can be generated. Please visit our [Quality tab](./quality.html).  
+Thanks to our [`campsisqual`](https://github.com/campsisverse/campsisqual) package, an extensive IQ/OQ report can be generated. Please visit our [Quality tab](./quality.html).  
 

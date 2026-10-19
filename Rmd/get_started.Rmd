@@ -90,7 +90,7 @@ shaded_plot(results, "CONC", colour = c("ARM"), strat_extra = "SCENARIO") +
 
 ## Post-process your results
 
-For instance, let's derive some non-compartmental analysis (NCA) metrics at Day 3, for each scenario and arm, with the [`campsisnca`](https://github.com/Calvagone/campsisnca) package:
+For instance, let's derive some non-compartmental analysis (NCA) metrics at Day 3, for each scenario and arm, with the [`campsisnca`](https://github.com/campsisverse/campsisnca) package:
 
 ```{r get_started_post_processing, message=FALSE}
 library(campsisnca)

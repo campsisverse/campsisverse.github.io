@@ -23,12 +23,12 @@ Want to give it a try? Please follow the [Installation](./install.html) instruct
 
 <div class="level">
 <div class="column-left">
-<a href="https://github.com/Calvagone/campsis"><img src="images/r_package_campsis.png"></a>
+<a href="https://github.com/campsisverse/campsis"><img src="images/r_package_campsis.png"></a>
 </div>
 
 <div class="column-right" style="padding-left: 30px;">
 
-#### [campsis](https://github.com/Calvagone/campsis)
+#### [campsis](https://github.com/campsisverse/campsis)
 
 A generic PK/PD simulation platform based on rxode2 and mrgsolve engines.  
 Please check out our [documentation](https://calvagone.github.io/campsis.doc/).
@@ -40,12 +40,12 @@ Please check out our [documentation](https://calvagone.github.io/campsis.doc/).
 
 <div class="level">
 <div class="column-left">
-<a href="https://github.com/Calvagone/campsismod"><img src="images/r_package_campsismod.png"></a>
+<a href="https://github.com/campsisverse/campsismod"><img src="images/r_package_campsismod.png"></a>
 </div>
 
 <div class="column-right" style="padding-left: 30px;">
 
-#### [campsismod](https://github.com/Calvagone/campsismod)
+#### [campsismod](https://github.com/campsisverse/campsismod)
 
 Generic implementation of a drug model in pharmacometrics.  
 Please check out our [documentation](https://calvagone.github.io/campsismod.doc/).
@@ -57,15 +57,15 @@ Please check out our [documentation](https://calvagone.github.io/campsismod.doc/
 
 <div class="level">
 <div class="column-left">
-<a href="https://github.com/Calvagone/campsisnca"><img src="images/r_package_campsisnca.png"></a>
+<a href="https://github.com/campsisverse/campsisnca"><img src="images/r_package_campsisnca.png"></a>
 </div>
 
 <div class="column-right" style="padding-left: 30px;">
 
-#### [campsisnca](https://github.com/Calvagone/campsisnca)
+#### [campsisnca](https://github.com/campsisverse/campsisnca)
 
 Analyse your simulation output using non-compartmental analysis (NCA).   
-Please check out the [README](https://github.com/Calvagone/campsisnca?tab=readme-ov-file) on GitHub. It contains many useful examples.
+Please check out the [README](https://github.com/campsisverse/campsisnca?tab=readme-ov-file) on GitHub. It contains many useful examples.
 
 </div>
 </div>
@@ -74,15 +74,15 @@ Please check out the [README](https://github.com/Calvagone/campsisnca?tab=readme
 
 <div class="level">
 <div class="column-left">
-<a href="https://github.com/Calvagone/campsismisc"><img src="images/r_package_campsismisc.png"></a>
+<a href="https://github.com/campsisverse/campsismisc"><img src="images/r_package_campsismisc.png"></a>
 </div>
 
 <div class="column-right" style="padding-left: 30px;">
 
-#### [campsismisc](https://github.com/Calvagone/campsismisc)
+#### [campsismisc](https://github.com/campsisverse/campsismisc)
 
 Easily perform forest plots and sensitivity analyses using Campsis.   
-Please check out the [README](https://github.com/Calvagone/campsismisc?tab=readme-ov-file) on GitHub. It contains many useful examples.
+Please check out the [README](https://github.com/campsisverse/campsismisc?tab=readme-ov-file) on GitHub. It contains many useful examples.
 
 </div>
 </div>
@@ -91,15 +91,15 @@ Please check out the [README](https://github.com/Calvagone/campsismisc?tab=readm
 
 <div class="level">
 <div class="column-left">
-<a href="https://github.com/Calvagone/campsisqual"><img src="images/r_package_campsisqual.png"></a>
+<a href="https://github.com/campsisverse/campsisqual"><img src="images/r_package_campsisqual.png"></a>
 </div>
 
 <div class="column-right" style="padding-left: 30px;">
 
-#### [campsisqual](https://github.com/Calvagone/campsisqual)
+#### [campsisqual](https://github.com/campsisverse/campsisqual)
 
 Qualify your installation of the Campsis suite and generate an IQ/OQ report.   
-Please check out the [README](https://github.com/Calvagone/campsisqual) or contact [Calvagone](mailto:campsis@calvagone.com) for more information.
+Please check out the [README](https://github.com/campsisverse/campsisqual) or contact [Calvagone](mailto:campsis@calvagone.com) for more information.
 
 </div>
 </div>
@@ -129,9 +129,9 @@ e-Campsis is an application that provides an intuitive and user-friendly interfa
 
 <div class="column-right" style="padding-left: 30px;">
 
-#### [campsistrans](https://github.com/Calvagone/campsistrans)
+#### [campsistrans](https://github.com/campsisverse/campsistrans)
 
-Campsistrans is dedicated to importing models from a variety of sources. Currently, it imports your models from NONMEM control files (including parameter estimates and variance-covariance matrix), Monolix, and rxode2. Check out the [README](https://github.com/Calvagone/campsistrans?tab=readme-ov-file) on GitHub!
+Campsistrans is dedicated to importing models from a variety of sources. Currently, it imports your models from NONMEM control files (including parameter estimates and variance-covariance matrix), Monolix, and rxode2. Check out the [README](https://github.com/campsisverse/campsistrans?tab=readme-ov-file) on GitHub!
 
 </div>
 </div>
@@ -145,9 +145,9 @@ Campsistrans is dedicated to importing models from a variety of sources. Current
 
 <div class="column-right" style="padding-left: 30px;">
 
-#### [campsisverse](https://github.com/Calvagone/campsisverse)
+#### [campsisverse](https://github.com/campsisverse/campsisverse)
 
-Last but not least, Campsisverse is our package manager. It allows you to install the Campsis suite and its dependencies in one go. Based on `renv`, it ensures reproducibility of your simulation environment in R. Check out the [README](https://github.com/Calvagone/campsisverse?tab=readme-ov-file) on GitHub!
+Last but not least, Campsisverse is our package manager. It allows you to install the Campsis suite and its dependencies in one go. Based on `renv`, it ensures reproducibility of your simulation environment in R. Check out the [README](https://github.com/campsisverse/campsisverse?tab=readme-ov-file) on GitHub!
 
 </div>
 </div>

@@ -13,11 +13,11 @@ More broadly, Campsis is part of a larger ecosystem of packages, called the Camp
 
 ## Campsis family
 
-As shown in the schematic below, Campsis plays a central role in the Campsis suite, as it is the package that orchestrates the simulation process. While the package [`campsismod`](https://github.com/Calvagone/campsismod) takes care of the pharmacometric model and its translation to rxode2 or mrgsolve, the [`campsis`](https://github.com/Calvagone/campsis) package is more focused on the creation of the dataset (study design) and the simulation process.
+As shown in the schematic below, Campsis plays a central role in the Campsis suite, as it is the package that orchestrates the simulation process. While the package [`campsismod`](https://github.com/campsisverse/campsismod) takes care of the pharmacometric model and its translation to rxode2 or mrgsolve, the [`campsis`](https://github.com/campsisverse/campsis) package is more focused on the creation of the dataset (study design) and the simulation process.
 
 ![](images/campsis_family.png)
 
-In addition to these two interconnected core packages, the Campsis suite includes additional packages for post-processing and analysis. The first package, [`campsisnca`](https://github.com/Calvagone/campsisnca), specializes in non-compartmental analysis (NCA) of simulation results. The second package, [`campsismisc`](https://github.com/Calvagone/campsismisc), provides various utilities tailored for pharmacometricians. Among its key features are forest plots, which visualize the uncertainty of covariate effects on model parameters or NCA metrics, and tornado plots, which illustrate the sensitivity of model parameters to NCA metrics. These additional packages enhance the capabilities of the Campsis suite, making it a versatile set of packages for pharmacometric analysis.
+In addition to these two interconnected core packages, the Campsis suite includes additional packages for post-processing and analysis. The first package, [`campsisnca`](https://github.com/campsisverse/campsisnca), specializes in non-compartmental analysis (NCA) of simulation results. The second package, [`campsismisc`](https://github.com/campsisverse/campsismisc), provides various utilities tailored for pharmacometricians. Among its key features are forest plots, which visualize the uncertainty of covariate effects on model parameters or NCA metrics, and tornado plots, which illustrate the sensitivity of model parameters to NCA metrics. These additional packages enhance the capabilities of the Campsis suite, making it a versatile set of packages for pharmacometric analysis.
 
 Moreover, Calvagone has developed [e-Campsis](./ecampsis.html), a graphical user interface that builds on the capabilities of the existing Campsis packages. e-Campsis streamlines simulation setup and execution, offering an interactive platform for result visualization. Users can also export complete simulation scripts for offline execution using the open-source Campsis suite.  
 Additionally, e-Campsis features a model importer, enabling users to import and simulate NONMEM, Monolix and rxode2 models seamlessly. This functionality is based on the campsistrans package which leverages the [monolix2rx](https://nlmixr2.github.io/monolix2rx/index.html) and [nonmem2rx](https://nlmixr2.github.io/nonmem2rx/) packages developed by Matt Fidler.
@@ -83,8 +83,8 @@ If you are looking for some more examples, please check out our documentation we
 
 - Package [`campsismod`](https://calvagone.github.io/campsismod.doc/)
 - Package [`campsis`](https://calvagone.github.io/campsis.doc/)
-- Package [`campsisnca`](https://github.com/Calvagone/campsisnca)
-- Package [`campsismisc`](https://github.com/Calvagone/campsismisc)
+- Package [`campsisnca`](https://github.com/campsisverse/campsisnca)
+- Package [`campsismisc`](https://github.com/campsisverse/campsismisc)
 
 If you want to try out e-Campsis, please visit the [e-Campsis](./ecampsis.html) section.  
 

@@ -7,7 +7,7 @@ At Calvagone we are committed to developing  high-quality software that meets th
 ## Fully reproducible workflow
 
 All the simulations performed with e-Campsis are fully reproducible thanks to the open-source suite of packages.  
-In e-Campsis, the users can export the generated R code and run it on their own machine. The exact version of the packages and the dependencies, used by e-Campsis, can be locally restored using the [`campsisverse`](https://github.com/Calvagone/campsisverse) package, the installation manager for the Campsis suite. This allows the users to reproduce the results obtained with e-Campsis.
+In e-Campsis, the users can export the generated R code and run it on their own machine. The exact version of the packages and the dependencies, used by e-Campsis, can be locally restored using the [`campsisverse`](https://github.com/campsisverse/campsisverse) package, the installation manager for the Campsis suite. This allows the users to reproduce the results obtained with e-Campsis.
 
 Typical workflow with Campsis/e-Campsis:
 
@@ -24,10 +24,10 @@ Of course, the user is free to edit the R script before execution to, for exampl
 
 ## Qualification of the Campsis suite
 
-The Campsis suite can be installed easily with the [`campsisverse`](https://github.com/Calvagone/campsisverse) package, yet in regulated environments it needs to be ensured and documented that everything works as expected. We have developed a qualification packages to ensure that the Campsis suite is installed and operates properly on all platforms (local installation or server installation). This process is based on the following steps:
+The Campsis suite can be installed easily with the [`campsisverse`](https://github.com/campsisverse/campsisverse) package, yet in regulated environments it needs to be ensured and documented that everything works as expected. We have developed a qualification packages to ensure that the Campsis suite is installed and operates properly on all platforms (local installation or server installation). This process is based on the following steps:
 
-1. **Installation**: The Campsis suite is installed in your R distribution (see the different options [here](https://github.com/Calvagone/campsisverse)).
-2. **Qualification**: The Campsis suite is qualified using the [`campsisqual`](https://github.com/Calvagone/campsisqual) package and our qualification suite of models; this encompasses tests of proper installation of all packages (i.e. installation qualification or IQ) as well as specific tests of the functions of each package and execution of a large number of PK/PD simulations with models from the library and comparing the results to true expected values. This procedure is called operational qualification (OQ).  In total over 1500 tests are run and more than 100 models are executed.
+1. **Installation**: The Campsis suite is installed in your R distribution (see the different options [here](https://github.com/campsisverse/campsisverse)).
+2. **Qualification**: The Campsis suite is qualified using the [`campsisqual`](https://github.com/campsisverse/campsisqual) package and our qualification suite of models; this encompasses tests of proper installation of all packages (i.e. installation qualification or IQ) as well as specific tests of the functions of each package and execution of a large number of PK/PD simulations with models from the library and comparing the results to true expected values. This procedure is called operational qualification (OQ).  In total over 1500 tests are run and more than 100 models are executed.
 3. **Reporting**: A detailed IQ/OQ report is generated, signed digitally and serves as the proof of the qualification.
 
 ![](images/campsis_suite_qualification.png){width=90%}
@@ -105,7 +105,7 @@ The development of the Campsis suite follows a software development life cycle (
     - e-Campsis deployed on our own secure server located in France and shinyapps.io using the AWS infrastructure
     - Packages released on GitHub/CRAN
     - Documentation is updated
-    - Qualification reports are issued thanks to [`campsisqual`](https://github.com/Calvagone/campsisqual) and the qualification suite of models
+    - Qualification reports are issued thanks to [`campsisqual`](https://github.com/campsisverse/campsisqual) and the qualification suite of models
 6. **Review**
     - e-Campsis/Campsis used on a daily base at Calvagone for M&S projects
     - Feedback from the users is collected (online, during workshops) and is used to improve the software
