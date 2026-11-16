@@ -12,9 +12,9 @@ source("_R/campsis_setup.R")
 
 ![](images/campsis_banner_small.png)
 
-Welcome to the official website of the Campsis suite.  
+Welcome to the official website of the Campsis suite.
 
-Campsis is a PK/PD simulation platform developed by [Calvagone](http://www.calvagone.com). Most packages of the suite are open-source and can be downloaded from GitHub.  
+Campsis is an open-source PK/PD simulation platform for R, originally created and sponsored by [Calvagone](https://www.calvagone.com) and now actively maintained and extended within the [campsisverse](https://github.com/campsisverse) ecosystem with support from [Lynxsoft](https://lynxsoft.be). All R packages in the suite are open-source on GitHub, while [e-Campsis](https://www.e-campsis.com/) provides a commercial interface built on top of them. Packages that are available on CRAN are shown with their badge.
 
 Want to learn more? Please visit our section [What is Campsis](./intro.html).  
 Want to give it a try? Please follow the [Installation](./install.html) instructions and have a look at the documentation below.
@@ -31,7 +31,8 @@ Want to give it a try? Please follow the [Installation](./install.html) instruct
 #### [campsis](https://github.com/campsisverse/campsis)
 
 A generic PK/PD simulation platform based on rxode2 and mrgsolve engines.  
-Please check out our [documentation](https://campsisverse.github.io/campsis.doc/).
+Please check out our [documentation](https://campsisverse.github.io/campsis.doc/).  
+This package is available on [![CRAN version](http://www.r-pkg.org/badges/version/campsis)](https://cran.r-project.org/package=campsis)
 
 </div>
 </div>
@@ -48,8 +49,8 @@ Please check out our [documentation](https://campsisverse.github.io/campsis.doc/
 #### [campsismod](https://github.com/campsisverse/campsismod)
 
 Generic implementation of a drug model in pharmacometrics.  
-Please check out our [documentation](https://campsisverse.github.io/campsismod.doc/).
-
+Please check out our [documentation](https://campsisverse.github.io/campsismod.doc/).  
+This package is available on [![CRAN version](http://www.r-pkg.org/badges/version/campsismod)](https://cran.r-project.org/package=campsismod)
 </div>
 </div>
 
@@ -65,7 +66,8 @@ Please check out our [documentation](https://campsisverse.github.io/campsismod.d
 #### [campsisnca](https://github.com/campsisverse/campsisnca)
 
 Analyse your simulation output using non-compartmental analysis (NCA).   
-Please check out the [README](https://github.com/campsisverse/campsisnca?tab=readme-ov-file) on GitHub. It contains many useful examples.
+Please check out the [README](https://github.com/campsisverse/campsisnca?tab=readme-ov-file) on GitHub. It contains many useful examples.  
+This package is available on [![CRAN version](http://www.r-pkg.org/badges/version/campsisnca)](https://cran.r-project.org/package=campsisnca)
 
 </div>
 </div>
@@ -99,23 +101,7 @@ Please check out the [README](https://github.com/campsisverse/campsismisc?tab=re
 #### [campsisqual](https://github.com/campsisverse/campsisqual)
 
 Qualify your installation of the Campsis suite and generate an IQ/OQ report.   
-Please check out the [README](https://github.com/campsisverse/campsisqual) or contact [Calvagone](mailto:campsis@calvagone.com) for more information.
-
-</div>
-</div>
-
-<!-- Separator -->
-
-<div class="level">
-<div class="column-left">
-<a href="./ecampsis"><img src="images/r_package_ecampsis.png"></a>
-</div>
-
-<div class="column-right" style="padding-left: 30px;">
-
-#### [e-Campsis](./ecampsis.html)
-
-e-Campsis is an application that provides an intuitive and user-friendly interface for setting up population PK/PD simulations. Discover [e-Campsis](./ecampsis.html) here or check out our [documentation](https://campsisverse.github.io/ecampsis.doc/).
+Please check out the [README](https://github.com/campsisverse/campsisqual) for more information.
 
 </div>
 </div>
@@ -148,6 +134,22 @@ Campsistrans is dedicated to importing models from a variety of sources. Current
 #### [campsisverse](https://github.com/campsisverse/campsisverse)
 
 Last but not least, Campsisverse is our package manager. It allows you to install the Campsis suite and its dependencies in one go. Based on `renv`, it ensures reproducibility of your simulation environment in R. Check out the [README](https://github.com/campsisverse/campsisverse?tab=readme-ov-file) on GitHub!
+
+</div>
+</div>
+
+<!-- Separator -->
+
+<div class="level">
+<div class="column-left">
+<a href="./ecampsis"><img src="images/r_package_ecampsis.png"></a>
+</div>
+
+<div class="column-right" style="padding-left: 30px;">
+
+#### [e-Campsis](https://www.e-campsis.com/)
+
+e-Campsis is an application that provides an intuitive and user-friendly interface for setting up population PK/PD simulations. Discover [e-Campsis](https://www.e-campsis.com/) here or check out our [documentation](https://Calvagone.github.io/ecampsis.doc/).
 
 </div>
 </div>
