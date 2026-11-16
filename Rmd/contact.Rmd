@@ -4,19 +4,31 @@ title: 'Contact us'
 
 ## Who we are
 
-Calvagone is a scientific consultancy company applying model-based approaches and related services in support of pharmaceutical research and development with its registered office in France. As experts in pharmacometrics we offer a broad spectrum of services, for example: 
+### Lynxsoft
+
+[Lynxsoft](https://lynxsoft.be) is an independent scientific software engineering and IT consultancy based in Belgium, actively maintaining and extending the open-source **campsisverse** ecosystem. Specializing in pharmacometrics software architecture, modeling & simulation (M&S) tools, and reproducible scientific workflows, Lynxsoft offers tailored services including:
+
+- Custom PK/PD simulation and Model-Informed Precision Dosing (MIPD) application development
+- Scientific R and Python package architecture, validation, and workflow automation
+- Campsis integration, custom feature development, and technical support
+- Campsis and R simulation training courses
+
+For technical inquiries, custom software development, or support regarding the Campsis suite, please visit the [Lynxsoft website](https://lynxsoft.be) or get in touch at [nicolas.luyckx@lynxsoft.be](mailto:nicolas.luyckx@lynxsoft.be).
+
+---
+
+### Calvagone
+
+[Calvagone](https://www.calvagone.com) is a scientific consultancy company based in France that sponsored the initial development of Campsis and applies model-based approaches in support of pharmaceutical research and development. As experts in pharmacometrics, Calvagone offers a broad spectrum of scientific consulting services, including:
 
 - Population PK/PD modelling
 - Translational pre-clinical PK/PD modelling
 - First-in-human dose predictions (large and small molecules)
 - Drug-disease modelling
-- Clinical trial simulations 
+- Clinical trial simulations
 - Clinical pharmacology consulting and regulatory advice
 - Non-compartmental analysis
 - DDI and pediatric PBPK modelling
 - NONMEM and Campsis training courses
 
-For more information, please visit our [website](http://www.calvagone.com) or contact us directly at contact@calvagone.com.
-
-
- 
+For pharmacometric consulting inquiries, please visit the [Calvagone website](https://www.calvagone.com) or contact them directly at [contact@calvagone.com](mailto:contact@calvagone.com).
