@@ -24,8 +24,6 @@ navbar:
     href: ./install.html
   - text: "Get started"
     href: ./get_started.html
-  - text: "e-Campsis"
-    href: ./ecampsis.html
   - text: "Quality"
     href: ./quality.html
   - text: "News"
