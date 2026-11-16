@@ -111,4 +111,4 @@ table %>%
   export(dest = "gt")
 ```
 
-We invite you to check out how [e-Campsis](https://www.e-campsis.com/) can help you derive the NCA metrics in a more automated and user-friendly way.
+Simple, isn't it? Check out the `campsisnca` [README](https://github.com/campsisverse/campsisnca) for more examples.
