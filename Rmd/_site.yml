@@ -1,6 +1,6 @@
 name: "Campsis"
 author: "Calvagone"
-output_dir: "../"
+output_dir: "_site"
 exclude: ["*.xls", "*.csv","*.R"]
 output:
   html_document:

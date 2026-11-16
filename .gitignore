@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Rendered site (built and deployed by GitHub Actions)
+Rmd/_site/
