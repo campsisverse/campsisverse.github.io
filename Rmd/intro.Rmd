@@ -22,6 +22,8 @@ In addition to these two interconnected core packages, the Campsis suite include
 
 Moreover, we have developed the open-source [`campsistrans`](https://github.com/campsisverse/campsistrans) package, which enables users to import and simulate NONMEM, Monolix, and rxode2 models seamlessly. It leverages the monolix2rx and nonmem2rx packages developed by Matt Fidler, allowing existing models from other pharmacometric platforms to be translated directly into the Campsis ecosystem.
 
+Finally, the [`campsisqual`](https://github.com/campsisverse/campsisqual) package allows you to qualify the installation of the Campsis suite and generate an IQ/OQ report.
+
 ## A quick example of Campsis
 
 Load a 1-compartment model with absorption compartment from the model library.
@@ -86,6 +88,7 @@ If you are looking for some more examples, please check out our documentation we
 - Package [`campsisnca`](https://github.com/campsisverse/campsisnca)
 - Package [`campsismisc`](https://github.com/campsisverse/campsismisc)
 - Package [`campsistrans`](https://github.com/campsisverse/campsistrans)
+- Package [`campsisqual`](https://github.com/campsisverse/campsisqual)
 
 If you want to know more about our quality assurance process, please visit the [Quality](./quality.html) section.
 

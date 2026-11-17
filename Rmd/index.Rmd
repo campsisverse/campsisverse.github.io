@@ -142,7 +142,7 @@ Last but not least, Campsisverse is our package manager. It allows you to instal
 
 <div class="level">
 <div class="column-left">
-<a href="./ecampsis"><img src="images/r_package_ecampsis.png"></a>
+<a href="https://www.e-campsis.com/"><img src="images/r_package_ecampsis.png"></a>
 </div>
 
 <div class="column-right" style="padding-left: 30px;">
