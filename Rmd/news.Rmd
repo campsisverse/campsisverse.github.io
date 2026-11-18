@@ -2,19 +2,15 @@
 title: 'News'
 ---
 
+## Key dates
+
+- **October 29th, 2026**: Migration of the Campsis suite from the original Calvagone GitHub organization to the dedicated **[campsisverse](https://github.com/campsisverse)** organization.
+
+- **September 15th, 2026**: Package [`campsisnca`](https://cran.r-project.org/web/packages/campsisnca/index.html) is now available on CRAN!
+
 - **December 1st, 2024**: Release of [Campsisverse](https://github.com/campsisverse/campsisverse), the package manager of the Campsis suite that allows you to install and update all Campsis packages in one go.
 
-- **November 29th, 2024**: Package [campsisqual](https://github.com/campsisverse/campsisqual/) is now open-source on GitHub. Contact [Calvagone](mailto:campsis@calvagone.com) to receive the qualification suite of models and qualify your installation of the Campsis suite. Check out our section on [Quality](./quality.html).
-
-- **September 11th, 2024**: Release of an updated version of e-Campsis pro allowing the generation of forest plots to explore the impact of covariates. 
-
-- **February 2nd, 2024**: Release of an updated version of e-Campsis including a multitude of minor improvements that collectively improve the user-experience and functionality of e-Campsis. 
-
--   **December 20th, 2023**: Release of e-Campsis pro! The professional version of e-Campsis is now available.
-
--   **October 17th, 2023**: New release of e-Campsis free / free+ / interim pro! Model parameters can now be annotated (see columns label, unit and comment). The model library has been revised and fully annotated. Save and load functionalities, as well as the NONMEM import are now part of the pro version. Check out this [video](https://www.youtube.com/M_LLI_poS2E).
-
--   **August 11th, 2023**: Second release of e-Campsis free! Motivated by your positive feedback after the first release, we focused our efforts and implemented some powerful new features. Check out this [video](https://youtu.be/uypETm6aoNc) for a brief introduction to e-Campsis.
+- **November 29th, 2024**: Package [campsisqual](https://github.com/campsisverse/campsisqual/) is now open-source on GitHub and can be used to qualify your suite. Check out our section on [Quality](./quality.html).
 
 -   **June 29th, 2023**: Presentation of e-Campsis at the PAGE meeting in A Coruña. Click [here](https://www.page-meeting.org/default.asp?abstract=10493) to see the poster.
 
